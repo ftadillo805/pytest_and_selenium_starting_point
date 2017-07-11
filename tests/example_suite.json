@@ -1,0 +1,21 @@
+{
+    "suite_name": "Example Suite",
+    "tests": [
+        {
+            "function": "google.test_search"
+        },
+        {
+            "function": "google.test_login",
+            "data": [
+                {
+                    "email": "madeup@gmail.com",
+                    "password": "madeuppassword"
+                },
+                {
+                    "email": "madeup2@gmail.com",
+                    "password": "madeuppassword"
+                }
+            ]
+        }
+    ]
+}

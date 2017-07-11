@@ -1,0 +1,8 @@
+{
+    "firefox": {
+        "webdriver": "firefox"
+    },
+    "chrome": {
+        "webdriver": "chrome"
+    }
+}
